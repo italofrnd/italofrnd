@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ítalo Fernando
 
-<!--
-**italofrnd/italofrnd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor Back-end | Node.js • TypeScript • PostgreSQL
+Brasília, DF | Disponível para oportunidades
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tecnologias**
+
+Node.js • TypeScript • Express • PostgreSQL • JWT • Bcrypt • Git • JavaScript
+
+---
+
+**Sobre**
+
+Construção de APIs RESTful, modelagem de bancos SQL, autenticação e segurança. Experiência com sistemas ERP, integrações e lógica de negócio financeira.
+
+---
+
+**Contato**
+
+italofrnd@gmail.com
+linkedin.com/in/italofrnd
