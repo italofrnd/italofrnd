@@ -1,7 +1,7 @@
 # Ítalo Fernando
 
 Desenvolvedor Back-end | Node.js • TypeScript • PostgreSQL
-Brasília, DF | Disponível para oportunidades
+Brasília, DF 
 
 ---
 
